@@ -1,0 +1,2 @@
+    1  mkdocs gh-deploy
+    2  history > history_2023-09-19.txt
