@@ -1,1 +1,7 @@
-site_name: My first website
+site_name: English Site
+site_author: Hélio
+
+theme: 
+  name: material
+  language: pt
+
